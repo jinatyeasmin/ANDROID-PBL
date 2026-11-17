@@ -1,0 +1,44 @@
+{
+  "rules": {
+    "users": {
+      ".read": "auth != null",
+      "$uid": {
+        ".read": "auth != null",
+        ".write": "auth != null && auth.uid == $uid"
+      }
+    },
+    "admins": {
+      "$uid": {
+        ".read": "auth != null",
+        ".write": "auth != null"
+      }
+    },
+    "subjects": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "quizzes": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "questions": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "attempts": {
+      ".read": "auth != null",
+      "$uid": {
+        ".read": "auth != null && auth.uid == $uid",
+        "$attemptId": {
+          ".write": "auth != null && auth.uid == $uid"
+        }
+      }
+    },
+    "feedback": {
+      ".read": "auth != null",
+      "$feedbackId": {
+        ".write": "auth != null"
+      }
+    }
+  }
+}

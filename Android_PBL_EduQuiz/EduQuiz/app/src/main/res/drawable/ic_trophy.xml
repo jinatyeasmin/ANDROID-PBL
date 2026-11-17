@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Golden Trophy Vector matching Result screen -->
+    <!-- Handles -->
+    <path
+        android:strokeColor="#FFB800"
+        android:strokeWidth="6"
+        android:pathData="M24,28 C12,28 12,48 26,52" />
+    <path
+        android:strokeColor="#FFB800"
+        android:strokeWidth="6"
+        android:pathData="M72,28 C84,28 84,48 70,52" />
+    <!-- Cup Body -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M22,20 L74,20 L66,54 C66,64 56,66 48,66 C40,66 30,64 30,54 Z" />
+    <!-- Stem -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M44,66 L52,66 L54,76 L42,76 Z" />
+    <!-- Base -->
+    <path
+        android:fillColor="#6236D9"
+        android:pathData="M32,76 L64,76 L68,86 L28,86 Z" />
+    <!-- Star on Cup -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,30 L50.5,37.5 L58,37.5 L52,42 L54,49.5 L48,45 L42,49.5 L44,42 L38,37.5 L45.5,37.5 Z" />
+</vector>

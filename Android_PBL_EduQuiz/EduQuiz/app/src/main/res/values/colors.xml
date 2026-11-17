@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- QuizMaster Primary Brand Colors -->
+    <color name="primary">#6236D9</color>
+    <color name="primary_dark">#4B23B8</color>
+    <color name="primary_light">#7A4FF0</color>
+    <color name="secondary">#8B65EF</color>
+    <color name="secondary_light">#F3EEFF</color>
+    <color name="lavender_bg">#F4EFFF</color>
+    <color name="accent_streak">#FF7A00</color>
+    <color name="accent_streak_light">#FFF4E6</color>
+    
+    <!-- Neutral Colors -->
+    <color name="background">#F8F7FC</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#202033</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#202033</color>
+    <color name="text_secondary">#77758A</color>
+    <color name="text_muted">#A2A0B2</color>
+    <color name="text_hint">#B4B2C2</color>
+    
+    <!-- Functional Status Colors -->
+    <color name="success">#20B67A</color>
+    <color name="success_light">#E7F8F1</color>
+    <color name="error">#E65365</color>
+    <color name="error_light">#FDECEE</color>
+    <color name="warning">#FFB800</color>
+    
+    <!-- UI Element Colors -->
+    <color name="divider">#EDEAF5</color>
+    <color name="stroke">#E6E2F3</color>
+    <color name="stroke_focused">#6236D9</color>
+    <color name="input_bg">#F8F7FC</color>
+    <color name="option_bg">#FFFFFF</color>
+    <color name="option_selected_bg">#F3EEFF</color>
+    <color name="option_selected_stroke">#6236D9</color>
+    <color name="chip_bg">#F0ECFB</color>
+    
+    <!-- Backwards compatibility -->
+    <color name="purple_200">#8B65EF</color>
+    <color name="purple_500">#6236D9</color>
+    <color name="purple_700">#4B23B8</color>
+    <color name="teal_200">#20B67A</color>
+    <color name="teal_700">#20B67A</color>
+    <color name="Green">#20B67A</color>
+    <color name="Grey">#77758A</color>
+</resources>

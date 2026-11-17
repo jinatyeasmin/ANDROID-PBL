@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EduQuiz"
+        tools:targetApi="31">
+
+        <!-- Launcher: Splash Screen -->
+        <activity
+            android:name=".splashscreenActivity"
+            android:exported="true"
+            android:theme="@style/Theme.EduQuiz.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Student Flow Activities -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".userDetails.LoginActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".quiz.QuizListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".quiz.QuizInstructionsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".quiz.QuizActivity"
+            android:exported="false" />
+        <activity
+            android:name=".quiz.QuizResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".quiz.RandomQuizActivity"
+            android:exported="false" />
+        <activity
+            android:name=".quiz.PerformanceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".userDetails.FeedbackActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".userDetails.ProfileActivity"
+            android:exported="false" />
+
+        <!-- Admin Flow Activities -->
+        <activity
+            android:name=".userDetails.adminActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".admin.AdminDashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.AddSubjectActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".admin.AddQuizActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".admin.AddQuestionsActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".admin.PublishQuizActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.ManageContentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.AdminFeedbackActivity"
+            android:exported="false" />
+
+    </application>
+
+</manifest>

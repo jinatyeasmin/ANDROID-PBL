@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- Isometric 3D Dice matching Figma Screen 7 -->
+    <!-- Top Face -->
+    <path
+        android:fillColor="#8B65EF"
+        android:pathData="M32,6 L56,18 L32,30 L8,18 Z" />
+    <!-- Left Face -->
+    <path
+        android:fillColor="#6236D9"
+        android:pathData="M8,18 L32,30 L32,56 L8,44 Z" />
+    <!-- Right Face -->
+    <path
+        android:fillColor="#4B23B8"
+        android:pathData="M32,30 L56,18 L56,44 L32,56 Z" />
+    <!-- Top Dots -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,18m-2,0a2,2 0 1,1 4,0a2,2 0 1,1 -4,0" />
+    <!-- Left Dots -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,29m-2,0a2,2 0 1,1 4,0a2,2 0 1,1 -4,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,43m-2,0a2,2 0 1,1 4,0a2,2 0 1,1 -4,0" />
+    <!-- Right Dots -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,29m-2,0a2,2 0 1,1 4,0a2,2 0 1,1 -4,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,43m-2,0a2,2 0 1,1 4,0a2,2 0 1,1 -4,0" />
+</vector>

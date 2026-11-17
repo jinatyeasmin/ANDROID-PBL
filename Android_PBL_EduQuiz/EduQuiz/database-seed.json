@@ -1,0 +1,282 @@
+{
+  "subjects": {
+    "math": {
+      "id": "math",
+      "name": "Mathematics",
+      "description": "Algebra, Geometry & Arithmetic",
+      "icon": "math",
+      "quizCount": 1,
+      "questionCount": 5
+    },
+    "science": {
+      "id": "science",
+      "name": "Science",
+      "description": "Physics, Chemistry & Biology",
+      "icon": "science",
+      "quizCount": 1,
+      "questionCount": 5
+    },
+    "cs": {
+      "id": "cs",
+      "name": "Computer Science",
+      "description": "Programming, Algorithms & Systems",
+      "icon": "cs",
+      "quizCount": 1,
+      "questionCount": 5
+    },
+    "history": {
+      "id": "history",
+      "name": "History",
+      "description": "World History, Civilizations & Events",
+      "icon": "history",
+      "quizCount": 1,
+      "questionCount": 4
+    }
+  },
+  "quizzes": {
+    "quiz_math_01": {
+      "id": "quiz_math_01",
+      "subjectId": "math",
+      "subjectName": "Mathematics",
+      "title": "Basic Mathematics",
+      "description": "Test your core arithmetic and algebra skills",
+      "totalQuestions": 5,
+      "timeLimitMinutes": 5,
+      "published": true,
+      "createdAt": 1700000000000
+    },
+    "quiz_science_01": {
+      "id": "quiz_science_01",
+      "subjectId": "science",
+      "subjectName": "Science",
+      "title": "General Science Essentials",
+      "description": "Fundamental concepts of nature and life",
+      "totalQuestions": 5,
+      "timeLimitMinutes": 5,
+      "published": true,
+      "createdAt": 1700000000000
+    },
+    "quiz_cs_01": {
+      "id": "quiz_cs_01",
+      "subjectId": "cs",
+      "subjectName": "Computer Science",
+      "title": "Java & Programming Basics",
+      "description": "Fundamental principles of programming in Java",
+      "totalQuestions": 5,
+      "timeLimitMinutes": 5,
+      "published": true,
+      "createdAt": 1700000000000
+    },
+    "quiz_history_01": {
+      "id": "quiz_history_01",
+      "subjectId": "history",
+      "subjectName": "History",
+      "title": "World History Trivia",
+      "description": "Famous historical landmarks and milestones",
+      "totalQuestions": 4,
+      "timeLimitMinutes": 5,
+      "published": true,
+      "createdAt": 1700000000000
+    }
+  },
+  "questions": {
+    "quiz_math_01": {
+      "q1": {
+        "id": "q1",
+        "quizId": "quiz_math_01",
+        "questionText": "What is 2 + 2 ?",
+        "optionA": "3",
+        "optionB": "4",
+        "optionC": "5",
+        "optionD": "6",
+        "correctAnswer": 2
+      },
+      "q2": {
+        "id": "q2",
+        "quizId": "quiz_math_01",
+        "questionText": "What is the square root of 64?",
+        "optionA": "6",
+        "optionB": "7",
+        "optionC": "8",
+        "optionD": "9",
+        "correctAnswer": 3
+      },
+      "q3": {
+        "id": "q3",
+        "quizId": "quiz_math_01",
+        "questionText": "What is 15 * 6?",
+        "optionA": "80",
+        "optionB": "90",
+        "optionC": "100",
+        "optionD": "75",
+        "correctAnswer": 2
+      },
+      "q4": {
+        "id": "q4",
+        "quizId": "quiz_math_01",
+        "questionText": "Solve for x: 3x - 5 = 10",
+        "optionA": "3",
+        "optionB": "4",
+        "optionC": "5",
+        "optionD": "6",
+        "correctAnswer": 3
+      },
+      "q5": {
+        "id": "q5",
+        "quizId": "quiz_math_01",
+        "questionText": "What is the perimeter of a square with side 7cm?",
+        "optionA": "21cm",
+        "optionB": "28cm",
+        "optionC": "49cm",
+        "optionD": "14cm",
+        "correctAnswer": 2
+      }
+    },
+    "quiz_science_01": {
+      "q1": {
+        "id": "q1",
+        "quizId": "quiz_science_01",
+        "questionText": "What is known as the powerhouse of the cell?",
+        "optionA": "Nucleus",
+        "optionB": "Ribosome",
+        "optionC": "Mitochondria",
+        "optionD": "Cytoplasm",
+        "correctAnswer": 3
+      },
+      "q2": {
+        "id": "q2",
+        "quizId": "quiz_science_01",
+        "questionText": "What is the chemical symbol for Water?",
+        "optionA": "CO2",
+        "optionB": "H2O",
+        "optionC": "O2",
+        "optionD": "NaCl",
+        "correctAnswer": 2
+      },
+      "q3": {
+        "id": "q3",
+        "quizId": "quiz_science_01",
+        "questionText": "What planet is known as the Red Planet?",
+        "optionA": "Venus",
+        "optionB": "Mars",
+        "optionC": "Jupiter",
+        "optionD": "Saturn",
+        "correctAnswer": 2
+      },
+      "q4": {
+        "id": "q4",
+        "quizId": "quiz_science_01",
+        "questionText": "What gas do plants absorb during photosynthesis?",
+        "optionA": "Oxygen",
+        "optionB": "Nitrogen",
+        "optionC": "Carbon Dioxide",
+        "optionD": "Hydrogen",
+        "correctAnswer": 3
+      },
+      "q5": {
+        "id": "q5",
+        "quizId": "quiz_science_01",
+        "questionText": "What is the speed of light approximately?",
+        "optionA": "300,000 km/s",
+        "optionB": "150,000 km/s",
+        "optionC": "500,000 km/s",
+        "optionD": "1,000,000 km/s",
+        "correctAnswer": 1
+      }
+    },
+    "quiz_cs_01": {
+      "q1": {
+        "id": "q1",
+        "quizId": "quiz_cs_01",
+        "questionText": "Which keyword is used to inherit a class in Java?",
+        "optionA": "implements",
+        "optionB": "extends",
+        "optionC": "inherits",
+        "optionD": "super",
+        "correctAnswer": 2
+      },
+      "q2": {
+        "id": "q2",
+        "quizId": "quiz_cs_01",
+        "questionText": "What is the size of an int data type in Java?",
+        "optionA": "2 bytes",
+        "optionB": "4 bytes",
+        "optionC": "8 bytes",
+        "optionD": "Depends on OS",
+        "correctAnswer": 2
+      },
+      "q3": {
+        "id": "q3",
+        "quizId": "quiz_cs_01",
+        "questionText": "Which data structure operates on LIFO (Last In First Out)?",
+        "optionA": "Queue",
+        "optionB": "Stack",
+        "optionC": "Array",
+        "optionD": "Linked List",
+        "correctAnswer": 2
+      },
+      "q4": {
+        "id": "q4",
+        "quizId": "quiz_cs_01",
+        "questionText": "Which company originally created the Android operating system?",
+        "optionA": "Google",
+        "optionB": "Android Inc.",
+        "optionC": "Apple",
+        "optionD": "Microsoft",
+        "correctAnswer": 2
+      },
+      "q5": {
+        "id": "q5",
+        "quizId": "quiz_cs_01",
+        "questionText": "What is the time complexity of binary search on a sorted array?",
+        "optionA": "O(n)",
+        "optionB": "O(log n)",
+        "optionC": "O(n^2)",
+        "optionD": "O(1)",
+        "correctAnswer": 2
+      }
+    },
+    "quiz_history_01": {
+      "q1": {
+        "id": "q1",
+        "quizId": "quiz_history_01",
+        "questionText": "In which year did World War II end?",
+        "optionA": "1942",
+        "optionB": "1945",
+        "optionC": "1948",
+        "optionD": "1950",
+        "correctAnswer": 2
+      },
+      "q2": {
+        "id": "q2",
+        "quizId": "quiz_history_01",
+        "questionText": "Who was the first President of the United States?",
+        "optionA": "Thomas Jefferson",
+        "optionB": "George Washington",
+        "optionC": "Abraham Lincoln",
+        "optionD": "John Adams",
+        "correctAnswer": 2
+      },
+      "q3": {
+        "id": "q3",
+        "quizId": "quiz_history_01",
+        "questionText": "Which ancient civilization built the Pyramids of Giza?",
+        "optionA": "Romans",
+        "optionB": "Greeks",
+        "optionC": "Egyptians",
+        "optionD": "Mayans",
+        "correctAnswer": 3
+      },
+      "q4": {
+        "id": "q4",
+        "quizId": "quiz_history_01",
+        "questionText": "What wall fell in 1989 marking the end of Cold War divisions?",
+        "optionA": "Great Wall",
+        "optionB": "Berlin Wall",
+        "optionC": "Hadrian's Wall",
+        "optionD": "Western Wall",
+        "correctAnswer": 2
+      }
+    }
+  }
+}

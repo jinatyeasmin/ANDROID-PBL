@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- QuizMaster Cap Logo matching Figma -->
+    <!-- Cap Top Diamond -->
+    <path
+        android:fillColor="#6236D9"
+        android:pathData="M48,16 L88,32 L48,48 L8,32 Z" />
+    <!-- Cap Bottom Base -->
+    <path
+        android:fillColor="#4B23B8"
+        android:pathData="M24,40 L24,58 C24,68 72,68 72,58 L72,40 L48,50 Z" />
+    <!-- Tassel String and Pendant -->
+    <path
+        android:strokeColor="#FFB800"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M78,34 L84,54" />
+    <path
+        android:fillColor="#FFB800"
+        android:pathData="M81,54 L87,54 L85,64 L83,64 Z" />
+</vector>

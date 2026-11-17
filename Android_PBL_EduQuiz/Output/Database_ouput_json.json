@@ -1,0 +1,518 @@
+{
+  "admins": {
+    "2FEqGKvfpDXb3wN9WcRAFlYQDqJ2": {
+      "email": "jinat2004@gmail.com",
+      "name": "jinat2004",
+      "role": "admin"
+    },
+    "WEVKD36fGxc4f6b5eNzCehPP8b02": {
+      "email": "kuntal2003@gmail.com",
+      "name": "kuntal2003",
+      "role": "admin"
+    },
+    "yXcLteWARbQludWqAtTQ6wuJw8i1": {
+      "email": "admin321@gmail.com",
+      "name": "admin123",
+      "role": "admin"
+    }
+  },
+  "attempts": {
+    "5vREyk3fmphpAIUaFnhrPypoSXF3": {
+      "-P64XKxiPB-iJtaXNs5Z": {
+        "correctAnswers": 3,
+        "dateString": "2026-11-10",
+        "id": "-P64XKxiPB-iJtaXNs5Z",
+        "quizId": "random_quiz",
+        "quizTitle": "Random Quiz Challenge",
+        "random": true,
+        "score": 3,
+        "scorePercentage": 30,
+        "sectionId": "all",
+        "sectionName": "All Subjects",
+        "subjectId": "all",
+        "subjectName": "All Subjects",
+        "timestamp": 1794315475658,
+        "totalQuestions": 10,
+        "userId": "5vREyk3fmphpAIUaFnhrPypoSXF3",
+        "userName": "Student",
+        "wrongAnswers": 7
+      }
+    },
+    "CFZkDjqesIaGMqx7XAAEnBVWv3a2": {
+      "-P69ceyvR879uu4PQqC3": {
+        "correctAnswers": 2,
+        "dateString": "2026-11-11",
+        "id": "-P69ceyvR879uu4PQqC3",
+        "quizId": "random_quiz",
+        "quizTitle": "Random Quiz Challenge",
+        "random": true,
+        "score": 2,
+        "scorePercentage": 20,
+        "sectionId": "all",
+        "sectionName": "All Subjects",
+        "subjectId": "all",
+        "subjectName": "All Subjects",
+        "timestamp": 1794401022169,
+        "totalQuestions": 10,
+        "userId": "CFZkDjqesIaGMqx7XAAEnBVWv3a2",
+        "userName": "Student",
+        "wrongAnswers": 8
+      }
+    },
+    "cr60LfL1ljgQ9wkvanoVdmWTJw72": {
+      "-P5yJK3UUBLGKe8dZIUf": {
+        "correctAnswers": 3,
+        "dateString": "2026-11-09",
+        "id": "-P5yJK3UUBLGKe8dZIUf",
+        "quizId": "-P5yHIQdsBJUMsKI8Eu8",
+        "quizTitle": "Basic Java Questions",
+        "random": false,
+        "score": 3,
+        "scorePercentage": 100,
+        "sectionId": "java",
+        "sectionName": "Java",
+        "subjectId": "java",
+        "subjectName": "Java",
+        "timestamp": 1794194362028,
+        "totalQuestions": 3,
+        "userId": "cr60LfL1ljgQ9wkvanoVdmWTJw72",
+        "userName": "Student",
+        "wrongAnswers": 0
+      },
+      "-P5yLK2hJc8SYP8UNqk8": {
+        "correctAnswers": 1,
+        "dateString": "2026-11-09",
+        "id": "-P5yLK2hJc8SYP8UNqk8",
+        "quizId": "-P5yKA1r3T8EPa8Z1V0f",
+        "quizTitle": "Basic Python Questions",
+        "random": false,
+        "score": 1,
+        "scorePercentage": 33,
+        "sectionId": "python",
+        "sectionName": "Python",
+        "subjectId": "python",
+        "subjectName": "Python",
+        "timestamp": 1794194886225,
+        "totalQuestions": 3,
+        "userId": "cr60LfL1ljgQ9wkvanoVdmWTJw72",
+        "userName": "Student",
+        "wrongAnswers": 2
+      },
+      "-P5yLWi-T7k18FTgMiuy": {
+        "correctAnswers": 5,
+        "dateString": "2026-11-09",
+        "id": "-P5yLWi-T7k18FTgMiuy",
+        "quizId": "random_quiz",
+        "quizTitle": "Random Quiz Challenge",
+        "random": true,
+        "score": 5,
+        "scorePercentage": 83,
+        "sectionId": "all",
+        "sectionName": "All Subjects",
+        "subjectId": "all",
+        "subjectName": "All Subjects",
+        "timestamp": 1794194938084,
+        "totalQuestions": 6,
+        "userId": "cr60LfL1ljgQ9wkvanoVdmWTJw72",
+        "userName": "Student",
+        "wrongAnswers": 1
+      }
+    },
+    "svKL9ZT3atO1foXYcXl73LhYzt42": {
+      "-P5zJWBc9Js5Equ2w-uE": {
+        "correctAnswers": 2,
+        "dateString": "2026-11-09",
+        "id": "-P5zJWBc9Js5Equ2w-uE",
+        "quizId": "-P5zGVWxcHUJekL9_Ydf",
+        "quizTitle": "Java Review",
+        "random": false,
+        "score": 2,
+        "scorePercentage": 67,
+        "sectionId": "java",
+        "sectionName": "Java",
+        "subjectId": "java",
+        "subjectName": "Java",
+        "timestamp": 1794211189757,
+        "totalQuestions": 3,
+        "userId": "svKL9ZT3atO1foXYcXl73LhYzt42",
+        "userName": "Student",
+        "wrongAnswers": 1
+      },
+      "-P5zJl1BwV55M4YNqaEU": {
+        "correctAnswers": 3,
+        "dateString": "2026-11-09",
+        "id": "-P5zJl1BwV55M4YNqaEU",
+        "quizId": "random_quiz",
+        "quizTitle": "Random Quiz Challenge",
+        "random": true,
+        "score": 3,
+        "scorePercentage": 33,
+        "sectionId": "all",
+        "sectionName": "All Subjects",
+        "subjectId": "all",
+        "subjectName": "All Subjects",
+        "timestamp": 1794211254625,
+        "totalQuestions": 9,
+        "userId": "svKL9ZT3atO1foXYcXl73LhYzt42",
+        "userName": "Student",
+        "wrongAnswers": 6
+      }
+    }
+  },
+  "feedback": {
+    "-P5yJQBD-xUH_r3lk38N": {
+      "dateString": "2026-11-09",
+      "id": "-P5yJQBD-xUH_r3lk38N",
+      "message": "good",
+      "rating": 5,
+      "timestamp": 1794194387100,
+      "userId": "cr60LfL1ljgQ9wkvanoVdmWTJw72",
+      "userName": "sayan"
+    }
+  },
+  "questions": {
+    "-P5yHIQdsBJUMsKI8Eu8": {
+      "q1": {
+        "correctAnswer": 3,
+        "id": "q1",
+        "optionA": "Interpreter",
+        "optionB": "compiler",
+        "optionC": "hybrid",
+        "optionD": "none",
+        "questionText": "what type of language Java is?",
+        "quizId": "-P5yHIQdsBJUMsKI8Eu8",
+        "selectedAnswer": 0
+      },
+      "q2": {
+        "correctAnswer": 3,
+        "id": "q2",
+        "optionA": "printf",
+        "optionB": "print",
+        "optionC": "System.out.println",
+        "optionD": "cout",
+        "questionText": "what is use to print in java?",
+        "quizId": "-P5yHIQdsBJUMsKI8Eu8",
+        "selectedAnswer": 0
+      },
+      "q3": {
+        "correctAnswer": 1,
+        "id": "q3",
+        "optionA": "6java26",
+        "optionB": "6java8",
+        "optionC": "error",
+        "optionD": "24java26",
+        "questionText": "System.out.println(2+4+\"java\"+2+6) what is output?",
+        "quizId": "-P5yHIQdsBJUMsKI8Eu8",
+        "selectedAnswer": 0
+      }
+    },
+    "-P5yKA1r3T8EPa8Z1V0f": {
+      "q1": {
+        "correctAnswer": 4,
+        "id": "q1",
+        "optionA": "echo \"Hello\"",
+        "optionB": "printf(\"Hello\")",
+        "optionC": "System.out.print(\"Hello\")",
+        "optionD": "print(\"Hello\")",
+        "questionText": "correct way to output \"Hello\" in python?",
+        "quizId": "-P5yKA1r3T8EPa8Z1V0f",
+        "selectedAnswer": 0
+      },
+      "q2": {
+        "correctAnswer": 1,
+        "id": "q2",
+        "optionA": "2nd_place",
+        "optionB": "my_var",
+        "optionC": "_variable",
+        "optionD": "totalCount",
+        "questionText": "which is the following variable name invalid in python?",
+        "quizId": "-P5yKA1r3T8EPa8Z1V0f",
+        "selectedAnswer": 0
+      },
+      "q3": {
+        "correctAnswer": 3,
+        "id": "q3",
+        "optionA": "5",
+        "optionB": "7",
+        "optionC": "6",
+        "optionD": "error",
+        "questionText": "output of print(len(\"python\"))",
+        "quizId": "-P5yKA1r3T8EPa8Z1V0f",
+        "selectedAnswer": 0
+      }
+    },
+    "-P5zGVWxcHUJekL9_Ydf": {
+      "q1": {
+        "correctAnswer": 3,
+        "id": "q1",
+        "optionA": "true",
+        "optionB": "null",
+        "optionC": "false",
+        "optionD": "0",
+        "questionText": "What is the default value of a boolean instance variable in a Java class",
+        "quizId": "-P5zGVWxcHUJekL9_Ydf",
+        "selectedAnswer": 0
+      },
+      "q2": {
+        "correctAnswer": 3,
+        "id": "q2",
+        "optionA": "A. \n\nThe program will fail to compile with a syntax error.",
+        "optionB": "B. \n\nThe equals() method will automatically revert to checking object reference equality",
+        "optionC": "C. \n\nIt violates the general contract for Object.hashCode(), which can break hash-based collections like HashMap and HashSet",
+        "optionD": "D. \n\nThe garbage collector will fail to reclaim memory allocated for instances of that class.",
+        "questionText": "2.\n\nWhat is a primary consequence of overriding the equals() method in a Java class without also overriding the hashCode() method?",
+        "quizId": "-P5zGVWxcHUJekL9_Ydf",
+        "selectedAnswer": 0
+      },
+      "q3": {
+        "correctAnswer": 4,
+        "id": "q3",
+        "optionA": "A. It will not execute if a return statement is encountered inside the try block.",
+        "optionB": "B. \n\nIt is mandatory to include a finally block whenever a catch block is declared",
+        "optionC": "C. \n\nIt can catch and handle checked exceptions that were missed by preceding catch blocks.",
+        "optionD": "D. \n\nIt is guaranteed to execute under normal circumstances, even if an exception is thrown, unless the JVM exits or the thread is terminated.",
+        "questionText": "Which of the following statements regarding a finally block in Java is true?",
+        "quizId": "-P5zGVWxcHUJekL9_Ydf",
+        "selectedAnswer": 0
+      }
+    },
+    "-P64GzBFcPl6tWmQ6ZpY": {
+      "q1": {
+        "correctAnswer": 1,
+        "id": "q1",
+        "optionA": "2",
+        "optionB": "4",
+        "optionC": "6",
+        "optionD": "7",
+        "questionText": "1+1",
+        "quizId": "-P64GzBFcPl6tWmQ6ZpY",
+        "selectedAnswer": 0
+      },
+      "q2": {
+        "correctAnswer": 2,
+        "id": "q2",
+        "optionA": "2",
+        "optionB": "9",
+        "optionC": "1",
+        "optionD": "7",
+        "questionText": "4+5",
+        "quizId": "-P64GzBFcPl6tWmQ6ZpY",
+        "selectedAnswer": 0
+      },
+      "q3": {
+        "correctAnswer": 2,
+        "id": "q3",
+        "optionA": "25",
+        "optionB": "20",
+        "optionC": "22",
+        "optionD": "24",
+        "questionText": "10+10",
+        "quizId": "-P64GzBFcPl6tWmQ6ZpY",
+        "selectedAnswer": 0
+      }
+    },
+    "-P69gIdbvwH862c5DN7V": {
+      "q1": {
+        "correctAnswer": 3,
+        "id": "q1",
+        "optionA": "6",
+        "optionB": "7",
+        "optionC": "8",
+        "optionD": "9",
+        "questionText": "what is 5 + 3",
+        "quizId": "-P69gIdbvwH862c5DN7V",
+        "selectedAnswer": 0
+      },
+      "q2": {
+        "correctAnswer": 4,
+        "id": "q2",
+        "optionA": "6",
+        "optionB": "7",
+        "optionC": "9",
+        "optionD": "8",
+        "questionText": "what is 12 - 4",
+        "quizId": "-P69gIdbvwH862c5DN7V",
+        "selectedAnswer": 0
+      },
+      "q3": {
+        "correctAnswer": 2,
+        "id": "q3",
+        "optionA": "10",
+        "optionB": "5",
+        "optionC": "6",
+        "optionD": "3",
+        "questionText": "what is 15 ÷ 3",
+        "quizId": "-P69gIdbvwH862c5DN7V",
+        "selectedAnswer": 0
+      }
+    }
+  },
+  "quizzes": {
+    "-P5yHIQdsBJUMsKI8Eu8": {
+      "createdAt": 1794194135962,
+      "description": "Java concept",
+      "id": "-P5yHIQdsBJUMsKI8Eu8",
+      "published": true,
+      "questionCount": 0,
+      "sectionId": "java",
+      "subjectId": "java",
+      "subjectName": "Java",
+      "timeLimitMinutes": 3,
+      "title": "Basic Java Questions",
+      "totalQuestions": 3
+    },
+    "-P5yKA1r3T8EPa8Z1V0f": {
+      "createdAt": 1794194843963,
+      "description": "python basic",
+      "id": "-P5yKA1r3T8EPa8Z1V0f",
+      "published": true,
+      "questionCount": 0,
+      "sectionId": "python",
+      "subjectId": "python",
+      "subjectName": "Python",
+      "timeLimitMinutes": 3,
+      "title": "Basic Python Questions",
+      "totalQuestions": 3
+    },
+    "-P5zGVWxcHUJekL9_Ydf": {
+      "createdAt": 1794210842502,
+      "description": "evaluation for java",
+      "id": "-P5zGVWxcHUJekL9_Ydf",
+      "published": true,
+      "questionCount": 0,
+      "sectionId": "java",
+      "subjectId": "java",
+      "subjectName": "Java",
+      "timeLimitMinutes": 3,
+      "title": "Java Review",
+      "totalQuestions": 3
+    },
+    "-P64GzBFcPl6tWmQ6ZpY": {
+      "createdAt": 1794311249397,
+      "description": "Oops concepts",
+      "id": "-P64GzBFcPl6tWmQ6ZpY",
+      "published": true,
+      "questionCount": 0,
+      "sectionId": "java",
+      "subjectId": "java",
+      "subjectName": "Java",
+      "timeLimitMinutes": 3,
+      "title": "Java Oops",
+      "totalQuestions": 3
+    },
+    "-P69gIdbvwH862c5DN7V": {
+      "createdAt": 1794402239358,
+      "description": "basic mathematics",
+      "id": "-P69gIdbvwH862c5DN7V",
+      "published": true,
+      "questionCount": 0,
+      "sectionId": "mathematics",
+      "subjectId": "mathematics",
+      "subjectName": "Mathematics",
+      "timeLimitMinutes": 3,
+      "title": "Daily Maths",
+      "totalQuestions": 3
+    }
+  },
+  "subjects": {
+    "general_knowledge": {
+      "description": "strogeer idea odd what's going on in our country",
+      "icon": "general",
+      "id": "general_knowledge",
+      "name": "General Knowledge",
+      "questionCount": 0,
+      "quizCount": 0
+    },
+    "java": {
+      "description": "Java Basic",
+      "icon": "cs",
+      "id": "java",
+      "name": "Java",
+      "questionCount": 3,
+      "quizCount": 0
+    },
+    "mathematics": {
+      "description": "basic mathematics",
+      "icon": "math",
+      "id": "mathematics",
+      "name": "Mathematics",
+      "questionCount": 3,
+      "quizCount": 0
+    },
+    "python": {
+      "description": "python Basic",
+      "icon": "cs",
+      "id": "python",
+      "name": "Python",
+      "questionCount": 3,
+      "quizCount": 0
+    }
+  },
+  "users": {
+    "5vREyk3fmphpAIUaFnhrPypoSXF3": {
+      "accuracyPercentage": 0,
+      "createdAt": 1794311338860,
+      "email": "sumanbajani2004@gmail.com",
+      "lastActiveDate": "2026-11-10",
+      "name": "suman",
+      "streak": 1,
+      "totalAttempts": 1,
+      "totalCorrect": 3,
+      "totalQuestions": 10,
+      "totalWrong": 7,
+      "uid": "5vREyk3fmphpAIUaFnhrPypoSXF3"
+    },
+    "CFZkDjqesIaGMqx7XAAEnBVWv3a2": {
+      "accuracyPercentage": 0,
+      "createdAt": 1794400281072,
+      "email": "jinat26@gmail.com",
+      "lastActiveDate": "2026-11-11",
+      "name": "jinat",
+      "streak": 1,
+      "totalAttempts": 1,
+      "totalCorrect": 2,
+      "totalQuestions": 10,
+      "totalWrong": 8,
+      "uid": "CFZkDjqesIaGMqx7XAAEnBVWv3a2"
+    },
+    "cr60LfL1ljgQ9wkvanoVdmWTJw72": {
+      "accuracyPercentage": 0,
+      "createdAt": 1794194319984,
+      "email": "sayanbajani2008@gmail.com",
+      "lastActiveDate": "2026-11-09",
+      "name": "sayan",
+      "streak": 1,
+      "totalAttempts": 3,
+      "totalCorrect": 9,
+      "totalQuestions": 12,
+      "totalWrong": 3,
+      "uid": "cr60LfL1ljgQ9wkvanoVdmWTJw72"
+    },
+    "svKL9ZT3atO1foXYcXl73LhYzt42": {
+      "accuracyPercentage": 0,
+      "createdAt": 1794211161845,
+      "email": "jinat26@edquiz.gmail.com",
+      "lastActiveDate": "2026-11-09",
+      "name": "jinat",
+      "streak": 1,
+      "totalAttempts": 2,
+      "totalCorrect": 5,
+      "totalQuestions": 12,
+      "totalWrong": 7,
+      "uid": "svKL9ZT3atO1foXYcXl73LhYzt42"
+    },
+    "umK8pTTHlUMn5rIEfpYGWOhYFH33": {
+      "accuracyPercentage": 0,
+      "createdAt": 1794125253800,
+      "email": "sumanbajani2003@gmail.com",
+      "lastActiveDate": "",
+      "name": "suman Bajani",
+      "streak": 0,
+      "totalAttempts": 0,
+      "totalCorrect": 0,
+      "totalQuestions": 0,
+      "totalWrong": 0,
+      "uid": "umK8pTTHlUMn5rIEfpYGWOhYFH33"
+    }
+  }
+}
